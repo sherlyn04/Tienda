@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Iconos">
+        <file>Recursos/cuenta.png</file>
+        <file>Recursos/tienda.png</file>
+    </qresource>
+</RCC>
